@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/header.png?raw=true" alt="Logotipo de DigitalRescue"/>
+</p>
+
+---
 ### Main Function Points
 * Rescue digital contents from old diskettes
 * Provide tools and resources to help users recover and preserve their old digital data
